@@ -1,35 +1,54 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import './App.css';
-import MaterialTable from 'material-table'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-const empList = [
-  { id: 1, name: "Neeraj", email: 'neeraj@gmail.com', status: 0, role: 1 },
-  { id: 2, name: "Raj", email: 'raj@gmail.com', status: 1, role: 0 },
-  { id: 3, name: "David", email: 'david342@gmail.com', status: 1, role: 3 },
-  { id: 4, name: "Vikas", email: 'vikas75@gmail.com', status: 0, role: 2 },
-]
+// import MaterialTable from 'material-table'
+
+import JsonDataDisplay from './data/test';
+import Formnew from './data/form2';
+import { useState } from "react";
+
 
 function App() {
+  const [claimsState, setclaimsState] = useState();
 
-  const [data, setData] = useState(empList)
-  const columns = [
-    { title: "ID", field: "id" },
-    { title: "Name", field: "name" },
-    { title: "Email", field: "email" }, 
-    { title: "Status", field: 'status', },
-    { title: "Role", field: "role", }
-  ] 
+
+            // console.log(info)
+            console.log(claimsState)
+
+let A= JsonDataDisplay;
+let B=Formnew;
+let C=Formnew
+if (claimsState === "claims_amount") {
+  C=A
+  console.log(C)
+}
+else if (claimsState==="claims_count") {
+  C=B
+  console.log(B)
+}
  
 
   return (
     <div className="App">
-      <h1 align="center">React-App</h1>
-      <h4 align='center'>Material Table</h4>
-      <MaterialTable
-        title="Employee Data"
-        data={data}
-        columns={columns}
-      />
+      <h1>Hello from samaki!!!</h1>
+      <div className='divselect'>
+      <select
+        className="justify-content-center"
+        value={claimsState}
+        onChange={(e) => {
+          const selectedclaims= e.target.value;
+          setclaimsState(selectedclaims);
+        }}
+      >
+        <option value="claims_amount">claims_amount</option>
+        <option value="claims_count">claims_count</option>
+
+      </select>
+      </div>
+      <h1>{claimsState}</h1>
+      {/* <JsonDataDisplay/> */}
+      <C/>
     </div>
   );
 }

@@ -1,10 +1,69 @@
 .App {
   /* text-align: center; */
+  background-color: gray;
+  width: 500;
 }
+.body{
+  background-color: gray ;
+  width: 500;
 
+}
+h1{
+  text-align: center;
+}
+.custom-select{
+  color: black;
+  text-align: center;
+  background-color: whitesmoke;
+  
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+table{
+  background-color: var(--bs-table-bg);
+  table-layout: fixed;
+  word-wrap: break-word;
+  text-align: center;
+}
+.tableneww, th, td{
+  background-color: #212529;
+  color: whitesmoke;
+  width: 500px;
+  height: 10px;
+  display:bock;
+  width:fit-content;
+  margin:auto;
+  padding: 0.5em;
+  font-size: 15px;
+  width: 100px;
+  border-collapse: collapse;
+  
+  
+}
+.tableneww td{
+  border: 1.5px solid whitesmoke;
+
+}
+.tableneww th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #21976c;
+  color: white;
+  border: 1.5px solid whitesmoke;
+}
+
+select{
+ 
+  padding-right: 29px;
+  direction: rtl;
+}
+.divselect{
+  display:bock;
+  width:fit-content;
+  margin:auto;
 }
 
 @media (prefers-reduced-motion: no-preference) {

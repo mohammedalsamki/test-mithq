@@ -1,0 +1,650 @@
+[{
+    "202001": [
+      [
+        {
+          "Report_date": 202001,
+          "Development_period": 1,
+          "claims_amount": 35283,
+          "claims_count": 30
+        }
+      ],
+      [
+        {
+          "Report_date": 202002,
+          "Development_period": 2,
+          "claims_amount": 41296,
+          "claims_count": 38
+        }
+      ],
+      [
+        {
+          "Report_date": 202003,
+          "Development_period": 3,
+          "claims_amount": 48233,
+          "claims_count": 47
+        }
+      ],
+      [
+        {
+          "Report_date": 202004,
+          "Development_period": 4,
+          "claims_amount": 58132,
+          "claims_count": 53
+        }
+      ],
+      [
+        {
+          "Report_date": 202005,
+          "Development_period": 5,
+          "claims_amount": 62379,
+          "claims_count": 55
+        }
+      ],
+      [
+        {
+          "Report_date": 202006,
+          "Development_period": 6,
+          "claims_amount": 66402,
+          "claims_count": 59
+        }
+      ],
+      [
+        {
+          "Report_date": 202007,
+          "Development_period": 7,
+          "claims_amount": 68811,
+          "claims_count": 59
+        }
+      ],
+      [
+        {
+          "Report_date": 202008,
+          "Development_period": 8,
+          "claims_amount": 68811,
+          "claims_count": 59
+        }
+      ],
+      [
+        {
+          "Report_date": 202009,
+          "Development_period": 9,
+          "claims_amount": 68811,
+          "claims_count": 59
+        }
+      ],
+      [
+        {
+          "Report_date": 202010,
+          "Development_period": 10,
+          "claims_amount": 68811,
+          "claims_count": 59
+        }
+      ],
+      [
+        {
+          "Report_date": 202011,
+          "Development_period": 11,
+          "claims_amount": 68811,
+          "claims_count": 59
+        }
+      ],
+      [
+        {
+          "Report_date": 202012,
+          "Development_period": 12,
+          "claims_amount": 68811,
+          "claims_count": 59
+        }
+      ]
+    ],
+    "202002": [
+      [
+        {
+          "Report_date": 202002,
+          "Development_period": 1,
+          "claims_amount": 33546,
+          "claims_count": 11
+        }
+      ],
+      [
+        {
+          "Report_date": 202003,
+          "Development_period": 2,
+          "claims_amount": 41947,
+          "claims_count": 16
+        }
+      ],
+      [
+        {
+          "Report_date": 202004,
+          "Development_period": 3,
+          "claims_amount": 50377,
+          "claims_count": 23
+        }
+      ],
+      [
+        {
+          "Report_date": 202005,
+          "Development_period": 4,
+          "claims_amount": 57666,
+          "claims_count": 33
+        }
+      ],
+      [
+        {
+          "Report_date": 202006,
+          "Development_period": 5,
+          "claims_amount": 60829,
+          "claims_count": 36
+        }
+      ],
+      [
+        {
+          "Report_date": 202007,
+          "Development_period": 6,
+          "claims_amount": 64852,
+          "claims_count": 41
+        }
+      ],
+      [
+        {
+          "Report_date": 202008,
+          "Development_period": 7,
+          "claims_amount": 66518,
+          "claims_count": 41
+        }
+      ],
+      [
+        {
+          "Report_date": 202009,
+          "Development_period": 8,
+          "claims_amount": 66518,
+          "claims_count": 41
+        }
+      ],
+      [
+        {
+          "Report_date": 202010,
+          "Development_period": 9,
+          "claims_amount": 66518,
+          "claims_count": 41
+        }
+      ],
+      [
+        {
+          "Report_date": 202011,
+          "Development_period": 10,
+          "claims_amount": 66518,
+          "claims_count": 41
+        }
+      ],
+      [
+        {
+          "Report_date": 202012,
+          "Development_period": 11,
+          "claims_amount": 66518,
+          "claims_count": 41
+        }
+      ]
+    ],
+    "202003": [
+      [
+        {
+          "Report_date": 202003,
+          "Development_period": 1,
+          "claims_amount": 31753,
+          "claims_count": 40
+        }
+      ],
+      [
+        {
+          "Report_date": 202004,
+          "Development_period": 2,
+          "claims_amount": 41112,
+          "claims_count": 48
+        }
+      ],
+      [
+        {
+          "Report_date": 202005,
+          "Development_period": 3,
+          "claims_amount": 49484,
+          "claims_count": 53
+        }
+      ],
+      [
+        {
+          "Report_date": 202006,
+          "Development_period": 4,
+          "claims_amount": 55449,
+          "claims_count": 59
+        }
+      ],
+      [
+        {
+          "Report_date": 202007,
+          "Development_period": 5,
+          "claims_amount": 57709,
+          "claims_count": 64
+        }
+      ],
+      [
+        {
+          "Report_date": 202008,
+          "Development_period": 6,
+          "claims_amount": 61961,
+          "claims_count": 69
+        }
+      ],
+      [
+        {
+          "Report_date": 202009,
+          "Development_period": 7,
+          "claims_amount": 65777,
+          "claims_count": 69
+        }
+      ],
+      [
+        {
+          "Report_date": 202010,
+          "Development_period": 8,
+          "claims_amount": 65777,
+          "claims_count": 69
+        }
+      ],
+      [
+        {
+          "Report_date": 202011,
+          "Development_period": 9,
+          "claims_amount": 65777,
+          "claims_count": 69
+        }
+      ],
+      [
+        {
+          "Report_date": 202012,
+          "Development_period": 10,
+          "claims_amount": 65777,
+          "claims_count": 69
+        }
+      ]
+    ],
+    "202004": [
+      [
+        {
+          "Report_date": 202004,
+          "Development_period": 1,
+          "claims_amount": 28610,
+          "claims_count": 49
+        }
+      ],
+      [
+        {
+          "Report_date": 202005,
+          "Development_period": 2,
+          "claims_amount": 37410,
+          "claims_count": 59
+        }
+      ],
+      [
+        {
+          "Report_date": 202006,
+          "Development_period": 3,
+          "claims_amount": 44984,
+          "claims_count": 69
+        }
+      ],
+      [
+        {
+          "Report_date": 202007,
+          "Development_period": 4,
+          "claims_amount": 51947,
+          "claims_count": 79
+        }
+      ],
+      [
+        {
+          "Report_date": 202008,
+          "Development_period": 5,
+          "claims_amount": 53444,
+          "claims_count": 83
+        }
+      ],
+      [
+        {
+          "Report_date": 202009,
+          "Development_period": 6,
+          "claims_amount": 56298,
+          "claims_count": 86
+        }
+      ],
+      [
+        {
+          "Report_date": 202010,
+          "Development_period": 7,
+          "claims_amount": 58222,
+          "claims_count": 86
+        }
+      ],
+      [
+        {
+          "Report_date": 202011,
+          "Development_period": 8,
+          "claims_amount": 58222,
+          "claims_count": 86
+        }
+      ],
+      [
+        {
+          "Report_date": 202012,
+          "Development_period": 9,
+          "claims_amount": 58222,
+          "claims_count": 86
+        }
+      ]
+    ],
+    "202005": [
+      [
+        {
+          "Report_date": 202005,
+          "Development_period": 1,
+          "claims_amount": 16111,
+          "claims_count": 11
+        }
+      ],
+      [
+        {
+          "Report_date": 202006,
+          "Development_period": 2,
+          "claims_amount": 23130,
+          "claims_count": 16
+        }
+      ],
+      [
+        {
+          "Report_date": 202007,
+          "Development_period": 3,
+          "claims_amount": 31725,
+          "claims_count": 24
+        }
+      ],
+      [
+        {
+          "Report_date": 202008,
+          "Development_period": 4,
+          "claims_amount": 41509,
+          "claims_count": 33
+        }
+      ],
+      [
+        {
+          "Report_date": 202009,
+          "Development_period": 5,
+          "claims_amount": 43200,
+          "claims_count": 37
+        }
+      ],
+      [
+        {
+          "Report_date": 202010,
+          "Development_period": 6,
+          "claims_amount": 46028,
+          "claims_count": 42
+        }
+      ],
+      [
+        {
+          "Report_date": 202011,
+          "Development_period": 7,
+          "claims_amount": 48210,
+          "claims_count": 42
+        }
+      ],
+      [
+        {
+          "Report_date": 202012,
+          "Development_period": 8,
+          "claims_amount": 48210,
+          "claims_count": 42
+        }
+      ]
+    ],
+    "202006": [
+      [
+        {
+          "Report_date": 202006,
+          "Development_period": 1,
+          "claims_amount": 10158,
+          "claims_count": 26
+        }
+      ],
+      [
+        {
+          "Report_date": 202007,
+          "Development_period": 2,
+          "claims_amount": 19909,
+          "claims_count": 35
+        }
+      ],
+      [
+        {
+          "Report_date": 202008,
+          "Development_period": 3,
+          "claims_amount": 24981,
+          "claims_count": 40
+        }
+      ],
+      [
+        {
+          "Report_date": 202009,
+          "Development_period": 4,
+          "claims_amount": 31004,
+          "claims_count": 49
+        }
+      ],
+      [
+        {
+          "Report_date": 202010,
+          "Development_period": 5,
+          "claims_amount": 35657,
+          "claims_count": 54
+        }
+      ],
+      [
+        {
+          "Report_date": 202011,
+          "Development_period": 6,
+          "claims_amount": 39241,
+          "claims_count": 58
+        }
+      ],
+      [
+        {
+          "Report_date": 202012,
+          "Development_period": 7,
+          "claims_amount": 42839,
+          "claims_count": 58
+        }
+      ]
+    ],
+    "202007": [
+      [
+        {
+          "Report_date": 202007,
+          "Development_period": 1,
+          "claims_amount": 38184,
+          "claims_count": 27
+        }
+      ],
+      [
+        {
+          "Report_date": 202008,
+          "Development_period": 2,
+          "claims_amount": 45699,
+          "claims_count": 35
+        }
+      ],
+      [
+        {
+          "Report_date": 202009,
+          "Development_period": 3,
+          "claims_amount": 55487,
+          "claims_count": 41
+        }
+      ],
+      [
+        {
+          "Report_date": 202010,
+          "Development_period": 4,
+          "claims_amount": 65340,
+          "claims_count": 48
+        }
+      ],
+      [
+        {
+          "Report_date": 202011,
+          "Development_period": 5,
+          "claims_amount": 70285,
+          "claims_count": 50
+        }
+      ],
+      [
+        {
+          "Report_date": 202012,
+          "Development_period": 6,
+          "claims_amount": 74186,
+          "claims_count": 51
+        }
+      ]
+    ],
+    "202008": [
+      [
+        {
+          "Report_date": 202008,
+          "Development_period": 1,
+          "claims_amount": 17570,
+          "claims_count": 16
+        }
+      ],
+      [
+        {
+          "Report_date": 202009,
+          "Development_period": 2,
+          "claims_amount": 26319,
+          "claims_count": 22
+        }
+      ],
+      [
+        {
+          "Report_date": 202010,
+          "Development_period": 3,
+          "claims_amount": 33905,
+          "claims_count": 31
+        }
+      ],
+      [
+        {
+          "Report_date": 202011,
+          "Development_period": 4,
+          "claims_amount": 42270,
+          "claims_count": 37
+        }
+      ],
+      [
+        {
+          "Report_date": 202012,
+          "Development_period": 5,
+          "claims_amount": 44145,
+          "claims_count": 41
+        }
+      ]
+    ],
+    "202009": [
+      [
+        {
+          "Report_date": 202009,
+          "Development_period": 1,
+          "claims_amount": 35991,
+          "claims_count": 13
+        }
+      ],
+      [
+        {
+          "Report_date": 202010,
+          "Development_period": 2,
+          "claims_amount": 42921,
+          "claims_count": 21
+        }
+      ],
+      [
+        {
+          "Report_date": 202011,
+          "Development_period": 3,
+          "claims_amount": 50751,
+          "claims_count": 31
+        }
+      ],
+      [
+        {
+          "Report_date": 202012,
+          "Development_period": 4,
+          "claims_amount": 58444,
+          "claims_count": 36
+        }
+      ]
+    ],
+    "202010": [
+      [
+        {
+          "Report_date": 202010,
+          "Development_period": 1,
+          "claims_amount": 28359,
+          "claims_count": 13
+        }
+      ],
+      [
+        {
+          "Report_date": 202011,
+          "Development_period": 2,
+          "claims_amount": 34593,
+          "claims_count": 22
+        }
+      ],
+      [
+        {
+          "Report_date": 202012,
+          "Development_period": 3,
+          "claims_amount": 43241,
+          "claims_count": 32
+        }
+      ]
+    ],
+    "202011": [
+      [
+        {
+          "Report_date": 202011,
+          "Development_period": 1,
+          "claims_amount": 19426,
+          "claims_count": 41
+        }
+      ],
+      [
+        {
+          "Report_date": 202012,
+          "Development_period": 2,
+          "claims_amount": 26768,
+          "claims_count": 49
+        }
+      ]
+    ],
+    "202012": [
+      [
+        {
+          "Report_date": 202012,
+          "Development_period": 1,
+          "claims_amount": 35669,
+          "claims_count": 49
+        }
+      ]
+    ]
+  }]
