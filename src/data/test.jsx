@@ -206,7 +206,7 @@ function JsonDataDisplay(){
 
     for (let index = 0; index < 1; index++) {
         element13 = arr[0][year12][11][0].claims_amount
-        count13 += element12
+        count13 += element13
         year11 += 1
         sumofsum12= (count13/count13).toFixed(3)
 
